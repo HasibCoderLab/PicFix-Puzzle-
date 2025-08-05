@@ -10,7 +10,7 @@ body {
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    background-image: url(background.jpg);
+    background-image: url(Assets/Images/background.jpg);
     background-size: 100% 100%;
     position: relative;
     gap: 150px;
